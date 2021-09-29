@@ -1,0 +1,11 @@
+Philadelphia,Pittsburgh
+Boston,New York
+Hartford,New York
+Los Angles,San Diego
+New York,Croton-Harmon
+St.Petersburg,Tampa
+Austin,Houston
+Kansas,Atlanta
+Kansas,Austin
+Orlando,Seattle
+Seattle,New York

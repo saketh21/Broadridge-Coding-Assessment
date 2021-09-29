@@ -1,0 +1,23 @@
+Instructions for Problem 1  => Connected Cities
+
+1. Save "cities.py" and "Cities.txt" in the same path or directory.
+2. Replace the path in line 6 and Execute the cities.py
+3. Test cases starts from line 24, the function will execute and print the expected outputs.
+4. Add more cities in Cities.txt to examine more if the code and logic is working properly.
+5. In case if cities are added in text file, make sure empty spaces are removed to execute the codes properly.
+6. I have added a couple of new cities to increase the test case.
+
+Instructions for Problem 3 => Simple Rest/ Microservice
+
+1. Run the file "main.py"
+2. Click on this URL http://127.0.0.1:5000/ from the output logs
+3. GET Test
+#Open Pycharm type below commands in order
+import requests
+response = requests.get("http://127.0.0.1:5000")
+response.json() # you will see the output message
+4. POST test
+import requests
+response = requests.post("http://127.0.0.1:5000")
+response.json() # you will see the output message
+5. Then see the output in HTTP response with the Message and Timestamp.
